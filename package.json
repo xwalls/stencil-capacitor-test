@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@capacitor/android": "^1.0.0",
-    "@capacitor/cli": "^1.0.0",
+    "@capacitor/cli": "^7.4.2",
     "@capacitor/core": "^1.0.0",
     "@capacitor/ios": "^1.0.0",
     "@ionic/core": "one"
